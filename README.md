@@ -1,2 +1,2 @@
 # Malik
-This is malik repository
+This is malik repository.
